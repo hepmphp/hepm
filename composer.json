@@ -1,6 +1,6 @@
 {
     "name": "hepm/helpers",
-    "description": "php hello library",
+    "description": "php helpers library",
     "type": "library",
      "license": "MIT",
     "authors": [

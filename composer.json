@@ -2,7 +2,7 @@
     "name": "hepm/hello",
     "description": "php hello library",
     "type": "library",
-    "license": "mit",
+     "license": "MIT",
     "authors": [
         {
             "name": "hepaming007",

@@ -9,7 +9,6 @@
             "email": "hepanming007@126.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {

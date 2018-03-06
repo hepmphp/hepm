@@ -1,0 +1,19 @@
+{
+    "name": "hepm/hello",
+    "description": "php hello library",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hepaming007",
+            "email": "hepanming007@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hepm\\":"src/"
+        }
+    }
+}
